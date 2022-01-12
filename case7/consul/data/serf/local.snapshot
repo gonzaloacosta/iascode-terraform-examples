@@ -1,0 +1,14 @@
+alive: quark 127.0.0.1:8301
+event-clock: 1
+alive: quark 127.0.0.1:8301
+event-clock: 2
+alive: quark 127.0.0.1:8301
+event-clock: 3
+alive: quark 192.168.0.3:8301
+event-clock: 4
+alive: quark 192.168.0.3:8301
+event-clock: 5
+alive: quark 127.0.0.1:8301
+event-clock: 6
+alive: quark 127.0.0.1:8301
+event-clock: 7
